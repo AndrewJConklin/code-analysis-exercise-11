@@ -36,15 +36,15 @@ function (actualAge){
 Inputs and outputs should be valid JavaScript values!
 
 | Input | Output |
-| ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| 0     | {humanYears: 0, catYears: 16, dogYears:14} |
+| 1     | {humanYears: 1, catYears: 15, dogYears:15} | 
+| 2     | {humanYears: 2, catYears: 24, dogYears:24} | 
+| 5     | {humanYears: 5, catYears: 36, dogYears:39} | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This program takes an input of actual years and converts it to human years, cat years, and dog years.</td>
   </tr>
 </table>
 
